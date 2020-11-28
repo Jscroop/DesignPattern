@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jscroop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jscroop\\.nuget\\packages"
+    ]
+  }
+}
